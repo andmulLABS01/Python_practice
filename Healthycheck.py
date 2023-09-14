@@ -63,7 +63,7 @@ def count_Status(given_json):
 
   print("Number of 'Healthy' checks:", count_healthy)
   print("Number of 'unHealthy' checks:", count_unhealthy)
-  print("")
+  #print("")
 
 #function that will output the names of unhealthy checks
 def print_Names(given_json):
